@@ -15,4 +15,5 @@ O **LibrAI** é uma aplicação educacional que utiliza a câmera do computador 
 
 O objetivo é ajudar pessoas que desejam **aprender LIBRAS**, especialmente o alfabeto manual, de uma forma gamificada e interativa — você faz o sinal com a mão e o sistema reconhece se está correto!
 
+https://imgur.com/a/Qrfvo2G
 
