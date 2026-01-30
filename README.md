@@ -17,6 +17,7 @@ O objetivo é ajudar pessoas que desejam **aprender LIBRAS**, especialmente o al
 ![LibrAI Demo](https://i.imgur.com/pXhXzEI.gif)
 
 ✨ Funcionalidades
+
 Modo Fácil — Letras aleatórias com imagem de referência para aprender;
 
 Modo Difícil — Soletrar palavras completas sem referência visual;
