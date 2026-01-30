@@ -1,6 +1,5 @@
-# LibrAI
-LibrAI is a Python computer vision project that uses MediaPipe hand landmarks and classical ML to recognize static Brazilian Sign Language (LIBRAS) signs in real time.
-# 🤟 LibrAI
+
+#  LibrAI
 
 **Aprenda o alfabeto de LIBRAS de forma interativa usando visão computacional e machine learning.**
 
