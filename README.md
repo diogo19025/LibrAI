@@ -81,7 +81,7 @@ cd LibrAI
 pip install opencv-python mediapipe numpy joblib pillow pygame
 
 # Execute a aplicação
-python main.py
+python app.py
 ```
 
 ## 🛹 Como Rodar
