@@ -26,8 +26,6 @@ Feedback de dopamina — Som e flash verde na tela ao acertar;
 
 Sistema de pontuação — +1 por letra, +2 bônus por palavra completa;
 
-Detecção em tempo real — MediaPipe para landmarks da mão;
-
 Classificação por Machine Learning — Random Forest treinado com dados próprios.
 
 ## 🛠️ Stack / Tecnologias
